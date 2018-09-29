@@ -10,7 +10,7 @@
 <string>software-package</string>
 <key>url</key>
 <string>
-http://drjs.91biz.com.cn:9411/appCenter/download/66231E96E0000001D2277A14E35E265A/mt.ipa
+http://dgt.91biz.com.cn:9770/appCenter/download/5D81C02C60000001FB7D1A666073ACEA/mt.ipa
 </string>
 </dict>
 <dict>
@@ -20,7 +20,7 @@ http://drjs.91biz.com.cn:9411/appCenter/download/66231E96E0000001D2277A14E35E265
 <true/>
 <key>url</key>
 <string>
-http://drjs.91biz.com.cn:9411/appCenter/setupImage/66231E96E0000001D2277A14E35E265A/icon.png
+http://dgt.91biz.com.cn:9770/appCenter/setupImage/5D81C02C60000001FB7D1A666073ACEA/icon.png
 </string>
 </dict>
 </array>
@@ -33,7 +33,7 @@ http://drjs.91biz.com.cn:9411/appCenter/setupImage/66231E96E0000001D2277A14E35E2
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>dgt_ios</string>
+<string>dgt_IOS</string>
 </dict>
 </dict>
 </array>
